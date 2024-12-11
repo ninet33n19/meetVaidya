@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Deep Learning<br>🎯 Goals: Create my own SAAS Company</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning about Discord Bots<br>🎯 Goals: Create my own SAAS Company</p>
 
 ###
 
